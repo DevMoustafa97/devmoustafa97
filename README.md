@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a frontend developer
-- 🔭 Working on multiple frontend projects using React and Angular
+- 🔭 Working on multiple frontend projects using React
 - 🌱 Learning design patterns in depth
 <br>
 
